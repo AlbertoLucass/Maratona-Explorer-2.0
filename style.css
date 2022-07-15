@@ -134,6 +134,12 @@ ul li a {
     transition: background 200ms;
 }
 
+ul li a img{
+    width: 18px;
+    padding-right: 5px;
+}
+
+
 ul li a:hover {
     background: var(--primary-color-dark);
     
